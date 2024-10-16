@@ -1,5 +1,5 @@
 # Práctica 1: BLINK HOLA MUNDO
-Este repositorio contiene los códigos desarrollados en C y Python para la Práctica 1 utilizando la Raspberry Pi Pico W. En esta práctica, exploraremos las capacidades de la placa y cómo programarla para realizar diversas tareas y proyectos.
+Este repositorio contiene los códigos desarrollados en C y Python para la Práctica 3 utilizando la Raspberry Pi Pico W. En esta práctica, exploraremos las capacidades de la placa y cómo programarla para realizar diversas tareas y proyectos.
 
 Contenido del Repositorio
 Códigos en C: Implementaciones de proyectos utilizando el lenguaje de programación C. Estos ejemplos demuestran el uso de diferentes funciones y características de la Raspberry Pi Pico W.
